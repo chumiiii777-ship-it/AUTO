@@ -5,10 +5,7 @@
 <body> 
   <style>
     body {
-      background-color: #d0eafc; 
-      font-family: Arial, sans-serif;
-      color: #333;
-      padding: 20px;
+      background-color:"#d0eafc";
     }
   </style>
 
