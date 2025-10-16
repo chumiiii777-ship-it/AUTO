@@ -2,7 +2,7 @@
 <head>
   <title>Biografía de Michell Dayana</title>
 </head>
-<body background-color=red>
+<body>
 
   <h1><b>Biografía de Michell Dayana Badillo Salazar</b></h1>
 
