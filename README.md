@@ -2,7 +2,16 @@
 <head>
   <title>Biografía de Michell Dayana</title>
 </head>
-<body>
+<body> 
+  <style>
+    body {
+      background-color: #d0eafc; 
+      font-family: Arial, sans-serif;
+      color: #333;
+      padding: 20px;
+    }
+  </style>
+
 
   <h1><b>Biografía de Michell Dayana Badillo Salazar</b></h1>
 
