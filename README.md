@@ -1,7 +1,9 @@
 <HTML>
 <head>
   <title>Biografía de Michell Dayana</title>
+  <link rel="stylesheet" href="style.css">
 </head>
+
 <body> 
   <style>
     body {
